@@ -7,7 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
@@ -85,7 +85,24 @@
         </div>
     </div>
 
-    <script src="assets/js/db.js"></script>
-    <script src="assets/js/app.js"></script>
+    <div class="modal-overlay" onclick="closeProductModal(event)">
+        <div class="product-modal" onclick="event.stopPropagation()">
+            <div class="close-modal" onclick="closeProductModal(event)">✕</div>
+            <div class="modal-left">
+                <img id="modal-img" src="" alt="">
+            </div>
+            <div class="modal-right">
+                <div class="modal-category" id="modal-cat"></div>
+                <h2 class="modal-title" id="modal-title"></h2>
+                <p class="modal-description" id="modal-desc"></p>
+                <div class="modal-price" id="modal-price"></div>
+                <button class="btn-primary" id="modal-add-btn">Ajouter au panier</button>
+                <div class="modal-tags" id="modal-tags"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/db.js"></script>
+    <script src="js/app.js"></script>
 </body>
 </html>
