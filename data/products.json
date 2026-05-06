@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "title": "Chronographe Onyx",
+        "description": "Une montre d'exception alliant précision suisse et design contemporain. Boîtier en acier brossé et bracelet en cuir véritable.",
+        "price": 1250,
+        "image": "uploads/watch_1.jpg",
+        "category": "Horlogerie",
+        "tags": ["Luxe", "Précision", "Noir"],
+        "stock": 5
+    },
+    {
+        "id": 2,
+        "title": "Essence de Nuit",
+        "description": "Un parfum envoûtant aux notes de bois de santal et de bergamote. Flacon minimaliste en verre soufflé.",
+        "price": 185,
+        "image": "uploads/perfume_1.jpg",
+        "category": "Parfumerie",
+        "tags": ["Élégance", "Soirée"],
+        "stock": 12
+    },
+    {
+        "id": 3,
+        "title": "Portefeuille Horizon",
+        "description": "Cuir de veau pleine fleur, tannage végétal. Compartiments optimisés pour une finesse absolue.",
+        "price": 95,
+        "image": "uploads/wallet_1.jpg",
+        "category": "Accessoires",
+        "tags": ["Cuir", "Minimaliste"],
+        "stock": 20
+    },
+    {
+        "id": 4,
+        "title": "Lunettes Stellar",
+        "description": "Monture en titane ultra-légère. Verres polarisants haute définition avec protection UV400.",
+        "price": 320,
+        "image": "uploads/sunglasses_1.jpg",
+        "category": "Accessoires",
+        "tags": ["Design", "Protection"],
+        "stock": 8
+    },
+    {
+        "id": 5,
+        "title": "Sac de Voyage Atlas",
+        "description": "Toile canevas imperméable et finitions en cuir. Le compagnon idéal pour vos escapades d'un week-end.",
+        "price": 450,
+        "image": "uploads/bag_1.jpg",
+        "category": "Maroquinerie",
+        "tags": ["Voyage", "Durable"],
+        "stock": 4
+    },
+    {
+        "id": 6,
+        "title": "Stylo Plume Signature",
+        "description": "Plume en or 18 carats. Corps en résine précieuse noire et attributs argentés.",
+        "price": 580,
+        "image": "uploads/pen_1.jpg",
+        "category": "Écriture",
+        "tags": ["Classique", "Artisanat"],
+        "stock": 3
+    },
+    {
+        "id": 7,
+        "title": "Bougie Ambre Grise",
+        "description": "Cire végétale naturelle parfumée. Temps de brûlage d'environ 60 heures. Verre artisanal.",
+        "price": 65,
+        "image": "uploads/Maison",
+        "category": "Maison",
+        "tags": ["Ambiance", "Cadeau"],
+        "stock": 15
+    },
+    {
+        "id": 8,
+        "title": "Écouteurs Nebula",
+        "description": "Réduction de bruit active, son spatial immersif. Finition mate premium et autonomie de 30 heures.",
+        "price": 299,
+        "image": "uploads/earbuds_1.jpg",
+        "category": "Technologie",
+        "tags": ["Audio", "Innovant"],
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "title": "Boutons de Manchette Éclat",
+        "description": "Argent massif brossé avec insertion d'onyx véritable. Un détail qui fait toute la différence.",
+        "price": 145,
+        "image": "uploads/cufflinks_1.jpg",
+        "category": "Horlogerie",
+        "tags": ["Détail", "Sartorial"],
+        "stock": 7
+    },
+    {
+        "id": 10,
+        "title": "Vase Sculptural",
+        "description": "Céramique façonnée à la main. Une pièce d'art minimaliste pour sublimer votre intérieur.",
+        "price": 210,
+        "image": "uploads/vase_1.jpg",
+        "category": "Maison",
+        "tags": ["Art", "Décoration"],
+        "stock": 6
+    }
+]

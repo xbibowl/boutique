@@ -1,0 +1,10 @@
+{
+    "store_name": "Luxe & Minimaliste",
+    "logo_url": "assets/img/logo.png",
+    "primary_color": "#0a0a0a",
+    "secondary_color": "#ffffff",
+    "accent_color": "#d4af37",
+    "font_family": "'Inter', sans-serif",
+    "contact_email": "vorniere.antoine@gmail.com",
+    "currency": "EUR"
+}
